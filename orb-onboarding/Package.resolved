@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "unico-check-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/acesso-io/unico-check-ios",
+      "state" : {
+        "revision" : "949c9bcae22248a7b270ace0be16dfe13c22e472",
+        "version" : "2.2.1"
+      }
+    }
+  ],
+  "version" : 2
+}
